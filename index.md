@@ -23,3 +23,9 @@ print('hello world')
 ``` php
 echo 'hello world';
 ```
+
+### This is example of a task list on markdown
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] TODO
