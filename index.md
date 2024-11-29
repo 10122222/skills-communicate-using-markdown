@@ -7,3 +7,19 @@
 
 ### This is example of an image on markdown
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### This is example of a code block on markdown
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+### Example of python code block on markdown
+``` python
+print('hello world')
+```
+
+### In php, you can use this
+``` php
+echo 'hello world';
+```
